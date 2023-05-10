@@ -14,8 +14,8 @@ Place wtbdata_245days.csv into folder .\wpf_baseline_gru.zip\wpf_baseline_gru\kd
 ## Evaluation metric
 Refer the metric definition of RMSE and MAE in sdwpf_report_v2.2 in this repository.
 ## Results
-Accuracy	RMSE	 MAE	    Score
-64.5125%	44.7528	 38.1389	41.4459
+    Accuracy   RMSE	     MAE	 Score
+    64.5125%   44.7528  38.1389   41.4459
 (Rfer the accuracy metric in the baseline code)
 
     
